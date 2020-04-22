@@ -1,4 +1,4 @@
-#CodeSmiths (Co-Ride)
+# CodeSmiths (Co-Ride)
 Manisha Bahrani : 001026474 | Chetan Dhowloaghar : 001023435 | Samhitha Vinjamoori : 001086599
 
 ## Problem Statement 
