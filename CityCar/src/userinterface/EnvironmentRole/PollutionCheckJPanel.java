@@ -38,7 +38,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class PollutionCheckJPanel extends javax.swing.JPanel {
 

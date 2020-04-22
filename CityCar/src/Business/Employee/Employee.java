@@ -7,7 +7,7 @@ package Business.Employee;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class Employee {
     

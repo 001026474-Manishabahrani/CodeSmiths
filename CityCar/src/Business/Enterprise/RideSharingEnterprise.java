@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class RideSharingEnterprise extends Enterprise{
 

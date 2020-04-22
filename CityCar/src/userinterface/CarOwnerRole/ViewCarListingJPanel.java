@@ -21,7 +21,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class ViewCarListingJPanel extends javax.swing.JPanel {
 

@@ -11,7 +11,7 @@ import Business.WorkQueue.WorkQueue;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class UserAccount {
     

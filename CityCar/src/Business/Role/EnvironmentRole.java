@@ -15,7 +15,7 @@ import userinterface.EnvironmentRole.EnvironmentWorkAreaJPanel;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class EnvironmentRole extends Role {
      @Override

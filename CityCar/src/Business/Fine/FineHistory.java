@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class FineHistory {
     private ArrayList<Fine> fineIncurredhistory;

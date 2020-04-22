@@ -34,7 +34,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class AddCarListingJPanel extends javax.swing.JPanel {
 

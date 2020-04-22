@@ -7,7 +7,7 @@ package Business.WorkQueue;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class EnvRewardsWorkRequest extends WorkRequest {
     private String rewards = "$$-Rewards-$$";

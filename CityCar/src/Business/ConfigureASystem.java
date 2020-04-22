@@ -11,7 +11,7 @@ import Business.UserAccount.UserAccount;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class ConfigureASystem {
     

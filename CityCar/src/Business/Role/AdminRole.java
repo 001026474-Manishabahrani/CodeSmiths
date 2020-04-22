@@ -14,7 +14,7 @@ import userinterface.AdministrativeRole.AdminWorkAreaJPanel;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class AdminRole extends Role {
       @Override

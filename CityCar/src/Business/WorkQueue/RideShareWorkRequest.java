@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 
 public class RideShareWorkRequest extends WorkRequest {
