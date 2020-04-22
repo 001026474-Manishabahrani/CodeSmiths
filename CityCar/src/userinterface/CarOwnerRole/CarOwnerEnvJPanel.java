@@ -25,7 +25,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class CarOwnerEnvJPanel extends javax.swing.JPanel {
 

@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class CarOwnerOrganization extends Organization {
     

@@ -16,7 +16,11 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
+<<<<<<< HEAD
  * @author Sarthak
+=======
+ * @author CodeSmiths
+>>>>>>> master
  */
 public class ManageEnterpriseJPanel extends javax.swing.JPanel {
 

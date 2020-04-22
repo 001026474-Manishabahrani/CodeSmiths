@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class ManageUserAccountJPanel extends javax.swing.JPanel {
     JPanel userProcessContainer;

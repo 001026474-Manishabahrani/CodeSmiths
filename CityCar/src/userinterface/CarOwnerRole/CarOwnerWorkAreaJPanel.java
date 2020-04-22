@@ -24,7 +24,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class CarOwnerWorkAreaJPanel extends javax.swing.JPanel {
     private JPanel userProcessContainer;

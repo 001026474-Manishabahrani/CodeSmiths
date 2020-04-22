@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class WorkQueue {
     private ArrayList<WorkRequest> workRequestList;

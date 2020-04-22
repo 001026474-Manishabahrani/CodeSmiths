@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class EnterpriseDirectory {
     private ArrayList<Enterprise> enterpriseList;

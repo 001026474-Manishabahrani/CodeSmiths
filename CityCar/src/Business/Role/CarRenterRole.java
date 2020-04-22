@@ -15,7 +15,7 @@ import userinterface.CarRenterRole.CarRenterWorkAreaJPanel;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class CarRenterRole extends Role {
     @Override

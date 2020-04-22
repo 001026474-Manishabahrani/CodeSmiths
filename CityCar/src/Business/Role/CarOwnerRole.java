@@ -18,7 +18,7 @@ import userinterface.CarOwnerRole.CarOwnerWorkAreaJPanel;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class CarOwnerRole extends Role{
      @Override

@@ -34,7 +34,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class CarOwnerListingJpanel extends javax.swing.JPanel {
 

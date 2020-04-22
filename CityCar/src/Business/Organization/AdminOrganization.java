@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class AdminOrganization extends Organization{
     public AdminOrganization() {

@@ -16,7 +16,7 @@ import userinterface.CarOwnerRole.CarOwnerWorkAreaJPanel;
 
 /**
  *
- * @author Sarthak
+ * @author CodeSmiths
  */
 public class CarListingDetailsJPanel extends javax.swing.JPanel {
 

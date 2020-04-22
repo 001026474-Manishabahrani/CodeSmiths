@@ -18,7 +18,11 @@ import javax.swing.tree.DefaultTreeModel;
 
 /**
  *
+<<<<<<< HEAD
  * @author Sarthak
+=======
+ * @author CodeSmiths
+>>>>>>> master
  */
 public class SystemAdminWorkAreaJpanel extends javax.swing.JPanel {
     JPanel userProcessContainer;

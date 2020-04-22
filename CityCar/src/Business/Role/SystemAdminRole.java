@@ -14,7 +14,7 @@ import userinterface.SystemAdminWorkArea.SystemAdminWorkAreaJpanel;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class SystemAdminRole extends Role{
       

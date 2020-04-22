@@ -13,7 +13,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author manishabahranii
+ * @author CodeSmiths
  */
 public class CarListing {
     private String carModel;
